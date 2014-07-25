@@ -1,0 +1,18 @@
+{
+	"name": "my-awesome-cujoJS-app",
+	"version": "0.3.0",
+	"dependencies": {
+		"rave-wire": "~0.0.1",
+		"wire": "~0.10",
+		"when": "~2",
+		"meld": "~1",
+		"poly": "~0.5",
+		"rest": "~1",
+		"msgs": "~0.3"
+	},
+	"main": "app/main.js",
+	"ignore": [
+		"node_modules/"
+
+	]
+}
