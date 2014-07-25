@@ -3,7 +3,8 @@
 	"version": "0.3.0",
 	"dependencies": {
 		"rave-wire": "~0.0.1",
-		"wire": "~0.10",
+		"rave": "~0.2",
+		"wire": ">=0.10.7 <0.11",
 		"when": "~2",
 		"meld": "~1",
 		"poly": "~0.5",
