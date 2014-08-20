@@ -1,6 +1,6 @@
 {
   "name": "rave-start-cujo",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "dependencies": {
     "rave-wire": "~0.1",
     "rave-load-text":"~0.4",
