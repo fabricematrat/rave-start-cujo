@@ -1,9 +1,10 @@
 {
-  "name": "my-awesome-cujoJS-app",
+  "name": "rave-start-cujo",
   "version": "0.3.0",
   "dependencies": {
     "rave-wire": "~0.1",
     "rave-load-text":"~0.4",
+    "rave-load-css":"~0.4",
     "when": "~3",
     "meld": "~1",
     "poly": "~0.5",
