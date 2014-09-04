@@ -1,4 +1,4 @@
-# Rave Starter for CujoJA
+# Rave Starter for CujoJS
 
 
 ## Install it
