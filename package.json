@@ -1,35 +1,12 @@
 {
-	"name": "my-awesome-cujoJS-app",
-	"version": "0.3.0",
-	"description": "An application created with cujoJS! http://github.com/cujojs/seed.",
-	"keywords": ["modules", "ioc", "promises", "aop", "rest", "cujo", "cujojs"],
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://www.opensource.org/licenses/mit-license.php"
-		}
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/cujojs/quickstart"
-	},
-	"maintainers": [
-		{
-			"name": "Brian Cavalier",
-			"web": "http://hovercraftstudios.com"
-		},
-		{
-			"name": "John Hann",
-			"web": "http://unscriptable.com"
-		}
-	],
+	"name": "rave-start-cujo",
+	"version": "0.1.0",
+	"description": "An application created with cujoJS! http://github.com/cujojs.",
 	"dependencies": {},
 	"devDependencies": {
 		"serv": "",
-		"cram": "~0.7"
 	},
 	"scripts": {
 		"start": "serv --port 8000",
-		"cram": "cram index.html --include curl/plugin/domReady --include curl/plugin/locale"
 	}
 }
